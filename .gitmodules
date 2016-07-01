@@ -1,0 +1,3 @@
+[submodule "datepicker"]
+	path = datepicker
+	url = https://github.com/chmln/flatpickr
